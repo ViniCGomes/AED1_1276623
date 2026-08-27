@@ -1,0 +1,11 @@
+# Ignora tudo no repositório
+*
+
+# Permite que o Git navegue por subpastas
+!*/
+
+# Permite apenas arquivos .c
+!*.c
+
+# Mantém o arquivo .gitignore rastreado
+!.gitignore
