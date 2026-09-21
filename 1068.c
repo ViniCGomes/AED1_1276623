@@ -4,7 +4,7 @@ Nome        : <<<Vinicius Cesar Gomes>>>
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/<<1068>>
 Data        : 21/09/2026
-Objetivo    : Desempilhar cartas e chegar no ultimo elemento
+Objetivo    : Arrumar parenteses
 Dificuldade : <<<Logica de pilhas e filas, sintaxe e afins>>>
 Uso de IA   : <<<   >>>
 -----------------------------------------------------------------------------------------------------------------*/
